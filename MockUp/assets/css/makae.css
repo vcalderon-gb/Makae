@@ -1,0 +1,15 @@
+.fondo-azul-makae{
+	background-color: #7EB0CC;
+}
+.blanco {
+	background-color: #FFF;
+}
+.blanco-borde-inf {
+	background-color: #FFF;
+	border-bottom: solid;
+	border-color: #000;
+	border-width: 1px;
+}
+.img-center  {
+ margin: 0 auto;
+}

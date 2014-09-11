@@ -13,3 +13,8 @@
 .img-center  {
  margin: 0 auto;
 }
+.image-center img {
+ margin: 0 auto;
+}
+.image-center{background-color:#fff;}
+section.blurred{background-image:none;}

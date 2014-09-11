@@ -13,3 +13,6 @@
 .img-center  {
  margin: 0 auto;
 }
+.fondo-nubes {
+	background-image: url(../../images/back-nubes.png) fixed repeat;;
+}

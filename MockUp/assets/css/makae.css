@@ -18,3 +18,8 @@
 }
 .image-center{background-color:#fff;}
 section.blurred{background-image:none;}
+.fondo-nubes {
+	background-image: url(../../images/back-nubes.png) fixed repeat;;
+}
+.image-center{background-color:#fff;}
+section.blurred{background-image:none;}

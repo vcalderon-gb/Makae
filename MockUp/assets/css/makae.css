@@ -31,6 +31,7 @@ section.blurred{
 }
 .fondo-nubes {
 	background-image: url(../../images/nubes.png);
+	padding: 50px 0;
 }
 .iconos-derecha {
 	float: right;
@@ -92,3 +93,6 @@ section.blurred{
 	background-color: none;
 	border-color: none;
 }
+.custom-controls-slider .carousel-control{bottom:-55px;}
+.thumbnail.relative, .thumbnail.relative img{ height:250px;}
+.thumbnail.relative, .thumbnail.relative{ height:260px;}

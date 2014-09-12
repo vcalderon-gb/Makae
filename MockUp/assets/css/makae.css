@@ -6,9 +6,7 @@
 }
 .fondo-header{
 	background-image: url(../../images/fondo-header.jpg);
-	border-bottom: dotted;
-	border-color: #3C2415;
-	border-width: 2px;
+	border-bottom: 1px dotted #3C2415;
 }
 .blanco {
 	background-color: #FFF;
@@ -89,6 +87,7 @@ section.blurred{
 
 /*FIN ICONOS*/
 
+/*SLIDER HOME*/
 .navbar-inverse {
 	background-color: none;
 	border-color: none;
@@ -96,3 +95,48 @@ section.blurred{
 .custom-controls-slider .carousel-control{bottom:-55px;}
 .thumbnail.relative, .thumbnail.relative img{ height:250px; width:300px;}
 .thumbnail.relative, .thumbnail.relative{ height:260px;}
+
+/*FIN SLIDER HOME*/
+
+section{
+	padding: 20px 0;
+	margin:0px auto;
+	display:block;
+	position:relative;
+	width:100%;
+}
+.borde-tienda{
+	padding-top: 50px;
+	border-bottom: 1px dotted #3C2415;
+	border-top:  1px dotted #3C2415;
+}
+.page-header {
+	padding-bottom: 9.5px;
+	margin: 42px 0 21px;
+	border-bottom: 1px dotted #3C2415;
+}
+hr {
+	margin-top: 21px;
+	margin-bottom: 21px;
+	border: 0;
+	border-bottom: 1px dotted #3C2415;
+}
+.btn-success{
+	color: #ffffff;
+	background-color: #7EB0CC;
+	border-color: #7EB0CC;
+}
+.btn-primary {
+	color: #ffffff;
+	background-color: #3C2415;
+	border-color: #3C2415;
+}
+.section-dark {
+	background:#7EB0CC;
+   	color: #fff;
+}
+.btn-warning {
+	color: #ffffff;
+	background-color: #3B3B5E;
+	border-color: #3B3B5E;
+}

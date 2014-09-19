@@ -9,6 +9,13 @@
 	background-color: #FFF;
 	border-bottom: 1px dotted #3C2415;
 }
+.fondo-header2 {
+	background-image: url(../../images/header01.png);no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
 .blanco {
 	background-color: #FFF;
 }
@@ -25,9 +32,6 @@
 }
 .image-center img {
  margin: 0 auto;
-}
-.image-center{
-	background-color:none;
 }
 section.blurred{
 	background-image:none;

@@ -34,7 +34,7 @@ section.blurred{
 }
 .fondo-nubes {
 	background-image: url(../../images/nubes.png);
-	padding: 20px 0;
+	padding: 0px 0px 20px 0px;
 }
 .iconos-derecha {
 	float: right;
@@ -240,6 +240,7 @@ hr {
 }
 .carousel {
 	margin-bottom: 40px;
+	padding-left: 10px;
 }
 .navbar-inverse{
 	background-color: none;
